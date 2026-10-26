@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import FloatingActions from "@/components/FloatingActions";
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://keshavphysio.com"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://keshavphysiotherapy.in"),
   title: "Keshav Advanced Physiotherapy Center | Center & Home Physiotherapy | Ahmedabad",
   description: "One Place • Infinite Physiotherapy Solutions. Evidence-based center & home physiotherapy in Ghodasar, Ahmedabad led by Dr. Nikunj Joshi and Dr. Priyanshi Vani.",
   keywords: [

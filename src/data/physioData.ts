@@ -72,7 +72,7 @@ export const CLINIC_INFO = {
   homePhoneRaw: "9328150133",
   homeWhatsappUrl: "https://wa.me/919328150133?text=Hello%20Keshav%20Advanced%20Physiotherapy,%20I%20would%20like%20to%20inquire%20about%20Home%20Physiotherapy%20Care.",
   whatsappUrl: "https://wa.me/919898773128?text=Hello%20Keshav%20Advanced%20Physiotherapy%20Center,%20I%20would%20like%20to%20inquire%20about%20a%20physiotherapy%20consultation.",
-  email: "contact@keshavphysio.com",
+  email: "contact@keshavphysiotherapy.in",
   address: "GF/11, Shree Nivas Complex, Next to Gurukul Classes, Near Siddhinath Park Society, Ghodasar, Ahmedabad, Gujarat 380050",
   googleMapsUrl: "https://maps.google.com/?q=GF/11,+Shree+Nivas+Complex,+Next+to+Gurukul+Classes,+Near+Siddhinath+Park+Society,+Ghodasar,+Ahmedabad",
   timings: {

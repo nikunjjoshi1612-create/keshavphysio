@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { SERVICES, CONDITIONS } from "@/data/physioData";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://keshavphysio.com";
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://keshavphysiotherapy.in";
   const now = new Date();
 
   // Static Core Routes
